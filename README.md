@@ -4,7 +4,7 @@ A repository containing a 1.20.1 Forge modpack and infrastructure meant for a
 private server, STARFORGED (2025). Designd to be used with
 [Packwiz](https://github.com/packwiz/packwiz).
 
--# Please note that the following description was copied over from the previous iteration's GitHub page. Discrepancies are possible, though unlikely due to how little has changed since last year.
+Please note that the following description was copied over from the previous iteration's GitHub page. Discrepancies are possible, though unlikely due to how little has changed since last year.
 
 ## Hacking
 
