@@ -3020,6 +3020,10 @@ hash = "1e7b33c6ead636f434ce03e8c4f703c77362b1061b1142f86cddc72cfcf3ab7b"
 metafile = true
 
 [[files]]
+file = "mods/starforged_companion_mod-1.0.0-forge-1.20.1.jar"
+hash = "59d3675f44709c6d5f36541abe52e3308cd20f8e099bc9f55a386cae971ee7ca"
+
+[[files]]
 file = "mods/stellarview.pw.toml"
 hash = "346f392c022c1daa463bf876b9c078bc72db4249606c7dd44cc0a6f7d2cd1650"
 metafile = true
