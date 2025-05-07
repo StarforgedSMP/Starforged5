@@ -1,0 +1,13 @@
+name = "Multi World Borders Unofficial"
+filename = "worldborderfixer-2024.5.3 (1.20).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd5ed91ab4914d6f457a3e3c8dc46a1c62f977b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5500859
+project-id = 961971

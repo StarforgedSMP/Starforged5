@@ -1,0 +1,13 @@
+name = "Caves & Canyons"
+filename = "caves__canyons-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d0d865e57181a9fb31786c1ef98a8d1fa7b3633"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4870384
+project-id = 938767

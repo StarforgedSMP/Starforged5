@@ -1,0 +1,13 @@
+name = "Species"
+filename = "Species-1.20.1-2.3-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bc4305fb83b28015461d63452a4a01cf5337dc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6131829
+project-id = 857737

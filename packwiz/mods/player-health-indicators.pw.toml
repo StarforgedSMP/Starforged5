@@ -1,0 +1,13 @@
+name = "Player Health Indicators"
+filename = "PlayerHealthIndicators-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28635f460422201e3eb0db15828d6f72e43361e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4585316
+project-id = 591924

@@ -1,0 +1,13 @@
+name = "Poof Sounds"
+filename = "Poofsounds5.3-1.20.1FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc17cca4466683a3ade6e30853fe9fb28d176621"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4945253
+project-id = 831985

@@ -1,0 +1,13 @@
+name = "Life Crystals"
+filename = "simplelifecrystal-1.1-1.20.1 (FORGE).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bfca8394cf52b851ded22e03dd15e294223c865"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5616168
+project-id = 1010125

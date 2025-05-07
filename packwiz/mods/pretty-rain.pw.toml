@@ -1,0 +1,13 @@
+name = "Pretty Rain"
+filename = "Pretty Rain-1.20.1-Forge-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1069f4e0aa0cb36e4de347e2c482ae5a80faf9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6120431
+project-id = 1163800
