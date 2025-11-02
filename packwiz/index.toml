@@ -801,6 +801,11 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "f154c5b1f6f99d962a4f1b63172038e3941b068278e5827263c8273b05ad3f5f"
+metafile = true
+
+[[files]]
 file = "mods/flat-exp-costs.pw.toml"
 hash = "cdc98fa506e32ebb3ab6943bbea9d0fc01801ced6ff644fe6441198f8560dd87"
 metafile = true
@@ -870,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "8fac2e3bd398e8f2e9c4211c0ca2a85ae0f73c7f1b3400ae4d7bc5b0a5c352e0"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "e969c54f8b34ce0c793672e47ded8de32b40a71f4e9a73ca0947c5ce6390d63f"
 metafile = true
 
 [[files]]
