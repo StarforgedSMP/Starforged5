@@ -1,0 +1,13 @@
+name = "RoadArchitect"
+filename = "roadarchitect-1.5.0-neoforge+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4756294e480e2b6ee4e6d03ee4b69e979c38f634"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7019386
+project-id = 1326434

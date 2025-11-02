@@ -1,0 +1,13 @@
+name = "Farmer's Knives"
+filename = "farmersknives-neoforge-1.21.1-4.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "542212e1e2e729e94e55037caf8de7084ac99f91"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7031673
+project-id = 628972

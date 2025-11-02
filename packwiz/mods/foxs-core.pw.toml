@@ -1,0 +1,13 @@
+name = "Fox's Core"
+filename = "foxs_core-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b4dbbbc2b480b9f54d635fddf6c87685fc15628"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6644241
+project-id = 1280171

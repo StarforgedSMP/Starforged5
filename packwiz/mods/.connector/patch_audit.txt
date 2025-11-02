@@ -1,0 +1,11 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 0
+Failed: 0
+Success rate: NaN%        Accuracy: NaN%
+=============================================
+
+Mixin method com/smushytaco/health_levels/mixins/ServerPlayerEntityMixin hookTeleportTo(Lnet/minecraft/world/level/portal/DimensionTransition;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V
+  >> Using org.sinytra.adapter.patch.transformer.dynamic.DynamicInjectorOrdinalPatch
+     - Update injection point ordinal from Context[target=null, ordinal=1] to 2
+

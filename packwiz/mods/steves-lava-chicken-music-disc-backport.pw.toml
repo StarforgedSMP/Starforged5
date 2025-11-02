@@ -1,0 +1,13 @@
+name = "Steve's lava chicken music disc backport"
+filename = "steves_lava_chicken_music_disc-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aad24f259fb98a672e3ebdd871caec074a9a3527"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6780768
+project-id = 1307832

@@ -1,13 +1,13 @@
-name = "STARFORGED 5"
-author = "STARPLANET"
+name = "SF5"
+author = "Starplanet"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dc5824e711dc988071e3fd73f841ae30610103f32c64ef263cbc3cd5186a3983"
+hash = "4f62c1854252665aea5eb9cfcf4f5c8a7625297dd9beb15ffb2572bcd38f4ddd"
 
 [versions]
-forge = "47.3.22"
-minecraft = "1.20.1"
+minecraft = "1.21.1"
+neoforge = "21.1.209"

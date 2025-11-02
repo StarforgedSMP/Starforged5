@@ -1,0 +1,13 @@
+name = "Disc Fragments"
+filename = "disc-fragments-1.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bc9ee033afb55c444fbd51c046ddd6e47d6973d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5828662
+project-id = 1125293

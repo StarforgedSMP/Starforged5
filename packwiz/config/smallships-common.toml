@@ -55,8 +55,6 @@ schematicVersion = 5
 			#Range: 0.0 ~ 100.0
 			waterAnimalFleeDistance = 10.0
 
-	[Ship.Cog]
-
 		#Default attributes for the Cog. Speed in km/h, Health in default mc health points
 		[Ship.Cog.Attributes]
 			#Range: 1.0 ~ 10000.0
@@ -82,8 +80,6 @@ schematicVersion = 5
 			#Specify biome type for the Cog. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierCogBiome = "COLD"
-
-	[Ship.Brigg]
 
 		#Default attributes for the Brigg. Speed in km/h, Health in default mc health points
 		[Ship.Brigg.Attributes]
@@ -111,8 +107,6 @@ schematicVersion = 5
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierBriggBiome = "COLD"
 
-	[Ship.Galley]
-
 		#Default attributes for the Galley. Speed in km/h, Health in default mc health points
 		[Ship.Galley.Attributes]
 			#Range: 0.0 ~ 10000.0
@@ -139,8 +133,6 @@ schematicVersion = 5
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierGalleyBiome = "WARM"
 
-	[Ship.Drakkar]
-
 		#Default attributes for the Drakkar. Speed in km/h, Health in default mc health points
 		[Ship.Drakkar.Attributes]
 			#Range: 0.0 ~ 10000.0
@@ -166,4 +158,3 @@ schematicVersion = 5
 			#Specify biome type for the Drakkar. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierDrakkarBiome = "COLD"
-

@@ -1,0 +1,37 @@
+{
+  "initScanRadius": 125,
+  "chunkGenerateScanRadius": 20,
+  "maxConnectionDistance": 715,
+  "pipelineIntervalSeconds": 120,
+  "lampInterval": 30,
+  "sideDecorationInterval": 12,
+  "buoyInterval": 18,
+  "maskErosion": 1,
+  "deterministicDecorations": true,
+  "structureSelectors": [
+    "#minecraft:village"
+  ],
+  "terrainAnalyzer": {
+    "enabled": false,
+    "roughRadius": 12,
+    "roughStride": 3,
+    "roughRangeThreshold": 12,
+    "roughPenaltyScale": 15.0
+  },
+  "pathfinding": {
+    "preferLandOverWater": true,
+    "waterStepPenalty": 200.0,
+    "coastAvoidBufferBlocks": 16,
+    "coastProximityPenalty": 180.0,
+    "acceptHighProgressPartial": true,
+    "partialProgressPercent": 80
+  },
+  "forbiddenBiomes": {
+    "selectors": [
+      "#minecraft:is_ocean",
+      "#minecraft:is_deep_ocean"
+    ],
+    "bufferBlocks": 16,
+    "proximityPenalty": 500.0
+  }
+}

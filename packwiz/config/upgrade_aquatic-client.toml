@@ -1,4 +1,3 @@
-
 [misc]
 	#If unimplemented items should show that they are unobtainable in their item description
 	"Show unobtainable description" = true
@@ -8,4 +7,3 @@
 	"Days until insomnia overlay" = 0
 	#If Glow Squids should use our Glow Squid Renderer.
 	"Replace Glow Squid Renderer" = true
-

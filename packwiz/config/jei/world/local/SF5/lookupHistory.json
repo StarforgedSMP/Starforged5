@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createnuclear:coal_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dndesires:coal_piece"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"steves_lava_chicken_music_disc:hyper_potions_lava_chicken"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:music_disc_heave_ho"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:music_disc_dead_king_lullaby"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:pyrium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:music_disc_flame_still_burns"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:music_disc_wanderer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:emerald"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

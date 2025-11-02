@@ -29,4 +29,3 @@ schematicVersion = 2
 [General]
 	#Enable smallships creative tab in the creative inventory (only takes effect after restart).
 	smallshipsItemGroupEnable = false
-

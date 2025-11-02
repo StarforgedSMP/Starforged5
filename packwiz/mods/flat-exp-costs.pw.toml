@@ -1,0 +1,13 @@
+name = "Flat EXP Costs"
+filename = "consistentexpcost-1.21.1-neoforge-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03cf4b841ab3c6d8465d0d58beb36498648545b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6682592
+project-id = 1286450

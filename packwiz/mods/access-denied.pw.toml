@@ -1,0 +1,13 @@
+name = "Access Denied"
+filename = "access_denied-6.2.0-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "699ee43266cf90bda3f234d047d42cf6982a4620"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6942479
+project-id = 917449

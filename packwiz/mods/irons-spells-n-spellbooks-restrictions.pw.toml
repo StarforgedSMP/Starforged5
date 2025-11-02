@@ -1,0 +1,13 @@
+name = "Irons Spells 'n Spellbooks Restrictions"
+filename = "irons_restrictions-1.21.1-5.0.5-HOTFIX.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cda59f67f66c049ea4d559e3d8d0cfbe835d26a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7053850
+project-id = 1330168

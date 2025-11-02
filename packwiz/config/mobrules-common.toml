@@ -1,0 +1,19 @@
+["Mob Spawning Settings"]
+	#Controls hostile mob spawning:
+	#  false = Allow all hostile mobs to spawn
+	#  true = Disable all hostile mobs from spawning
+	#  partial = Only allow hostile mobs listed in hostile_mobs_allowlist.json
+	#Allowed Values: TRUE, FALSE, PARTIAL
+	hostileMobsControl = "FALSE"
+	#Controls farm animal spawning:
+	#  false = Allow all farm animals to spawn
+	#  true = Disable all farm animals from spawning
+	#  partial = Only allow farm animals listed in farm_animals_allowlist.json
+	#Allowed Values: TRUE, FALSE, PARTIAL
+	farmAnimalsControl = "FALSE"
+	#Controls aquatic animal spawning:
+	#  false = Allow all aquatic animals to spawn
+	#  true = Disable all aquatic animals from spawning
+	#  partial = Only allow aquatic animals listed in aquatic_animals_allowlist.json
+	#Allowed Values: TRUE, FALSE, PARTIAL
+	aquaticAnimalsControl = "FALSE"

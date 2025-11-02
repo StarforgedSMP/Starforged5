@@ -1,13 +1,13 @@
 name = "Deeper Oceans"
-filename = "deeper-oceans-mc1.20-v1.0.1a.jar"
+filename = "deeper-oceans-2.0.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c8f8a36896675b09ed0f008c49112ae962132e6f"
+hash = "5d61c35785b8efb1ae2530adc1ac2a62ad82029e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4573339
+file-id = 6668832
 project-id = 714177
