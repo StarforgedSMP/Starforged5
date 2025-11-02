@@ -801,11 +801,6 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "15037f6ad0f6ada296ca3eb9c0ac79f549ccfbe48077d1fdbf7f60bdcc8cb1bc"
-metafile = true
-
-[[files]]
 file = "mods/flat-exp-costs.pw.toml"
 hash = "cdc98fa506e32ebb3ab6943bbea9d0fc01801ced6ff644fe6441198f8560dd87"
 metafile = true
